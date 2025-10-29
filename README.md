@@ -1,4 +1,4 @@
-# Lorenzo ROSSI, DPhil Candidate | Translational Pharmacology and Molecular Antagonist Design
+# Lorenzo Salvador, DPhil Candidate | Translational Pharmacology and Molecular Antagonist Design
 
 ## About Me
 
