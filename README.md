@@ -14,7 +14,7 @@ My expertise spans high-level molecular design, intensive research methodology (
 
 My academic foundation reflects a strategically designed path to master the core disciplines required for translational drug development.
 
-* **DPhil (Ph.D.) in Biochemistry or Pharmacology** | **University of Oxford, UK**
+* **DPhil (Ph.D.) in Pharmacology** | **University of Oxford, UK**
     * *Duration: 2025 – Present*
     * *Focus: In vivo optimization and preclinical validation of a novel molecular antagonist.*
 * **MRes in Drug Discovery and Development** | **Imperial College London, UK**
